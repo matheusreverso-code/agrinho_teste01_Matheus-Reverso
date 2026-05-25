@@ -1,0 +1,7 @@
+h1 {font-size:250%; 
+    color: black;
+}
+h1 {border-style: double;
+border-color:black;
+border-width: 8px;
+}
